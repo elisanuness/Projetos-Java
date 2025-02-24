@@ -1,0 +1,34 @@
+
+	Imóvel: Endereço do imóvel: Rua 27 Casa 20 / Código: 10240001/ Status: Disponível
+
+	Principais envolvidos = 
+		Gerente: Mariana / Código: 406100001
+		Corretor: Pedro / Código:35020003
+		Locador: Mayron / Código: 35050004
+
+	Responsabilidades da Imobiliária = A imobiliária se compromete em: 
+	- Oferecer o imóvel do locador aos interesados; 
+	- Intermediar o aluguel e o contato entre locador e locatário;
+	- Assegurar a coleta do aluguel;
+	- Pagar valores relativos a transações de compras ao respectivo locador, descontada a comissão da empresa;
+	- Incluir relatórios periódicos;
+	- Realizar a manutenção necessária quando combinada com o locador;
+
+	Responsabilidades do Locador = O locador se compromete em: 
+	- Fornecer informações precisas sobre o imóvel; 
+	- Assegurar condições adequadas para locação;
+	- Cumprir com as obrigações da propriedade;
+	- Autorizar reparos significativos;
+	- Garantir documentos necessários;
+
+	Cláusulas Especificadas =  
+	- Esse contrato terá validade de 12 meses; 
+	- O contrato poderá ser renovado mediante acordo mútuo;
+	- A comissão da imobiliária será de 10% sobre o valor mensal do aluguel;
+	- Qualquer alteração no imóvel deve ser comunicada com 30 dias de antecedência
+	- O descumprimento de regras pode levar a multa e cancelamento do contrato
+
+	Taxa de Contratação = 10.0
+	Receita Mensal do Imóvel = 
+		Locador: R$2295.0
+		Imobiliária: R$255.0

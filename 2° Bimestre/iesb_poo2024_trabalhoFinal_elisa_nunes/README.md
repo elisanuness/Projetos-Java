@@ -7,10 +7,11 @@
 </html>
 
 ### Objetivos
-- Desenvolver um sistema de informação empresarial para gerenciamento de locação de imóveis em dada imobiliária. Destinado a facilitar as colaborações entre corretores e seus respectivos clientes, os locadores e locatários.  
+- Desenvolver um sistema de software cujo objetivo era suprir as necessidades de duas histórias de usuário desenvolvidas em sala de aula na matéria Engenharia de Software. 
+- O software desenvolvido seria para lojas online. Para este projeto foram selecionadas as histórias de usuário avaliar e assinatura, visando a praticidade do usuário no sistema.
 
 
-> Para o desenvolvimento do projeto foram utilizadas ferramentas da visão sistêmica para a observação dos comportamentos de todas as partes que o compõem. O detalhamento das informações desta análise segue no arquivo `"Visão Sistêmica.md"` da pasta.
+> Para o desenvolvimento do projeto foram utilizados diferentes tipo de diagramas para a observação dos comportamentos de todas as partes que o compõem. O detalhamento das informações desta análise segue no arquivo `"Diagramas.md"` da pasta.
 
 > A saída do terminal está no arquivo `"Resultado do Código"`
 

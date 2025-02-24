@@ -1,10 +1,9 @@
 package br.edu.iesb.poo2024.trabalho;
 
+
 public class Main {
-		
-	
 	public static void main(String[] args) {
-		
+
 		//Criando gerentes e corretores da imobiliária
 		Gerente gerenteUm = new Gerente(1, "Mariana", "052.698.155-17", "marianaflor@gmail.com", "(61) 98561-7730", "06/04/1972", "Casada", "Brasileira", "Feminino", 5);
 		Corretor corretorUm = new Corretor (2, "Gustavo", "073.965.842.04", "gustavomartins@hotmail.com", "(61) 96384-7523", "08/11/1994", "Casado", "Brasileiro", "Masculino", 10, 5);
@@ -111,7 +110,6 @@ public class Main {
 			imovelUm.getInformacoesImovel(); 
 			System.out.println("\nContrato -------------------------------------------------------------\n");
 			contratoImovelDois.detalhesDoContrato();
-	
 	}
 
 }

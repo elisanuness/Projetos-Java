@@ -1,0 +1,389 @@
+Elisa Nunes/ 2312082040
+
+
+ESTRUTURA DA IMOBILIÁRIA ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+	🔷 Equipes da imobiliária: 
+	Corretores do(a) gerente Mariana:[Corretor: Gustavo / Código:35020002, Corretor: Pedro / Código:35020003, Corretor: Diogo / Código:35020002]
+
+	🔷 Informações dos Gerentes: 
+
+	Nome = Mariana
+	CPF = 052.698.155-17
+	Data de Nascimento = 06/04/1972
+	Estado Civil = Casada
+	Nacionalidade = Brasileira
+	Sexo = Feminino
+	Telefone = marianaflor@gmail.com
+	Email = (61) 98561-7730
+	Endereço = null
+
+	Funções no sistema: 
+	Gerente
+	Código = 406100001
+	Comissão = 5.0
+	Meta de Locação = 18
+	Corretores que gerencia = [Corretor: Gustavo / Código:35020002, Corretor: Pedro / Código:35020003, Corretor: Diogo / Código:35020002]
+
+
+PROCESSO DE LOCAÇÃO (LOCADOR) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+
+CADASTRANDO CLIENTE ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+	🔷 Locador Cadastrado!
+
+	🔷 Informações do locador cadastrado:
+	Nome = Mayron
+	CPF = 056.963.777-45
+	Data de Nascimento = 09/05/1998
+	Estado Civil = Solteiro
+	Nacionalidade = Brasileiro
+	Sexo = Masculino
+	Telefone = mayronoliv@gmail.com
+	Email = (61)98574-6351
+	Endereço = null
+
+	Funções no sistema: 
+	Locador: Sim
+	Locatário: Não
+	Código = 35050004
+	Data de cadastro = Fri Oct 18 21:28:33 BRT 2024
+	Possui imóveis alugados? Não
+	Receita Mensal = 0.0
+	Imóveis = 
+	Não possui imóveis!
+
+
+	🔷 Informações do corretor responsável: 
+
+	Nome = Pedro
+	CPF = 621.525.457-25
+	Data de Nascimento = 22/07/1994
+	Estado Civil = Solteiro
+	Nacionalidade = Brasileiro
+	Sexo = Masculino
+	Telefone = pedrinbrgs@hotmail.com
+	Email = (61) 95458-8623
+	Endereço = CEP: 567782-145
+	   Cidade: Taguatinga
+	   Estado: DF
+	   Logradouro: Quadra 12 Rua 4 Lote 23
+	   Número: 23
+	   Complemento: Lote 23
+	   Ponto de Referência: null
+
+	Funções no sistema: 
+	Corretor
+	Código = 35020003
+	Comissão = 10.0
+	Meta de Locação = 5
+	Locadores que atende = [Locador: Mayron / Código: 35050004]
+	Locatários que atende = []
+
+
+CADASTRANDO IMÓVEL ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+	🔷 Imóvel Cadastrado!
+
+	🔷 Informações do imóvel cadastrado:
+
+	Id do Imóvel = 10240001
+	Data de Cadastro = Fri Oct 18 21:28:33 BRT 2024
+	Status = Em análise
+	Tipo do Imóvel = Casa
+	Valor Aluguel = 2550.0
+	Endereço = CEP: 456798-45
+	   Cidade: Casa 20
+	   Estado: DF
+	   Logradouro: Rua 27 Casa 20
+	   Número: 20
+	   Complemento: Núcleo Bandeirante
+	   Ponto de Referência: Padaria na Esquina
+	Contratos:
+	Contrato com Locador: Não
+	Contrato com Locatario: Não
+
+	🔷 Imóveis do Locador: [Endereço do imóvel: Rua 27 Casa 20 / Código: 10240001/ Status: Em análise]
+
+
+CONTRATO DO LOCADOR ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+
+EMITINDO CONTRATO ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+	🔷 Informações completas de contratação da imobiliária por Mayron:
+
+	Imóvel: Endereço do imóvel: Rua 27 Casa 20 / Código: 10240001/ Status: Em análise
+
+	Principais envolvidos = 
+		Gerente: Mariana / Código: 406100001
+		Corretor: Pedro / Código:35020003
+		Locador: Mayron / Código: 35050004
+
+	Responsabilidades da Imobiliária = A imobiliária se compromete em: 
+	- Oferecer o imóvel do locador aos interesados; 
+	- Intermediar o aluguel e o contato entre locador e locatário;
+	- Assegurar a coleta do aluguel;
+	- Pagar valores relativos a transações de compras ao respectivo locador, descontada a comissão da empresa;
+	- Incluir relatórios periódicos;
+	- Realizar a manutenção necessária quando combinada com o locador;
+
+	Responsabilidades do Locador = O locador se compromete em: 
+	- Fornecer informações precisas sobre o imóvel; 
+	- Assegurar condições adequadas para locação;
+	- Cumprir com as obrigações da propriedade;
+	- Autorizar reparos significativos;
+	- Garantir documentos necessários;
+
+	Cláusulas Especificadas =  
+	- Esse contrato terá validade de 12 meses; 
+	- O contrato poderá ser renovado mediante acordo mútuo;
+	- A comissão da imobiliária será de 10% sobre o valor mensal do aluguel;
+	- Qualquer alteração no imóvel deve ser comunicada com 30 dias de antecedência
+	- O descumprimento de regras pode levar a multa e cancelamento do contrato
+
+	Taxa de Contratação = 10.0
+	Receita Mensal do Imóvel = 
+		Locador: R$2295.0
+		Imobiliária: R$255.0
+
+ASSINANDO CONTRATO ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+	🔷 Contrato assinado pelo locador: Mayron
+	🔷 Contrato assinado pelo gerente: Mariana
+	🔷 Contrato assinado pelo corretor: Gustavo
+
+INFORMAÇÕES ATUALIZADAS DO IMÓVEL ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+	🔷 Contrato do locador cadastrado no sistema!
+	Status do Contrato do Locador: Vigente
+	Status do Imóvel: Disponível
+
+	Arquivo de contrato salvo em documento!
+
+
+
+
+
+PROCESSO DE LOCAÇÃO (LOCATÁRIO) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+
+CADASTRANDO CLIENTE ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+	🔷 Locatario Cadastrado!
+
+	🔷 Informações do locatario cadastrado:
+
+	Nome = Pets Ltda
+	CNPJ = 38.899.984/0001-11
+	Data de Registro = 08/10/1998
+	Telefone = petsltd@gmail.com
+	Email = (61)98574-6351
+	Endereço = CEP: 545631-545
+	   Cidade: Riacho Fundo I
+	   Estado: DF
+	   Logradouro: Quadra 15 Rua 10 Lote 20
+	   Número: 20
+	   Complemento: Lote 20
+	   Ponto de Referência: null
+
+	Código = 35040001
+	Data de cadastro = Fri Oct 18 21:28:33 BRT 2024
+	Está alugando imóveis? Não
+	Imóveis = 
+	Não aluga imóveis!
+	🔷 Informações do corretor responsável:
+
+	Nome = Pedro
+	CPF = 621.525.457-25
+	Data de Nascimento = 22/07/1994
+	Estado Civil = Solteiro
+	Nacionalidade = Brasileiro
+	Sexo = Masculino
+	Telefone = pedrinbrgs@hotmail.com
+	Email = (61) 95458-8623
+	Endereço = CEP: 567782-145
+	   Cidade: Taguatinga
+	   Estado: DF
+	   Logradouro: Quadra 12 Rua 4 Lote 23
+	   Número: 23
+	   Complemento: Lote 23
+	   Ponto de Referência: null
+
+	Funções no sistema: 
+	Corretor
+	Código = 35020003
+	Comissão = 10.0
+	Meta de Locação = 5
+	Locadores que atende = [Locador: Mayron / Código: 35050004]
+	Locatários que atende = [Locatario: Pets Ltda / Código: 35040001]
+
+
+IMÓVEL ESCOLHIDO ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+
+	🔷 Informações do imóvel selecionado:
+
+	Id do Imóvel = 10240001
+	Data de Cadastro = Fri Oct 18 21:28:33 BRT 2024
+	Status = Disponível
+	Tipo do Imóvel = Casa
+	Valor Aluguel = 2550.0
+	Endereço = CEP: 456798-45
+	   Cidade: Casa 20
+	   Estado: DF
+	   Logradouro: Rua 27 Casa 20
+	   Número: 20
+	   Complemento: Núcleo Bandeirante
+	   Ponto de Referência: Padaria na Esquina
+	Contratos:
+	Contrato com Locador: Sim
+	Contrato com Locatario: Não
+
+
+CONTRATO DO LOCATÁRIO ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+
+EMITINDO CONTRATO ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+	🔷 Informações completas de contratação da imobiliária por Pets Ltda:
+
+	Imóvel: Endereço do imóvel: Rua 27 Casa 20 / Código: 10240001/ Status: Disponível
+
+	Principais envolvidos = 
+		Gerente: Mariana / Código: 406100001
+		Corretor: Pedro / Código:35020003
+		Locatario: Pets Ltda / Código: 35040001
+
+	Responsabilidades da Imobiliária = A imobiliária se compromete em: 
+	- Intermediar o contrato de locação; 
+	- Realizar a cobrança do aluguel mensalmente;
+	- Assegurar a coleta do aluguel;
+	- Fornecer suporte ao locatário;
+
+	Responsabilidades do Locatário = O locatário se compromete em: 
+	- Pagar o aluguel pontualmente; 
+	- Manter o imóvel em boas condições;
+	- Comunicar quaisquer problemas ou necessidades de reparos;
+	- Respeitar regras de convivência;
+
+	Cláusulas Especificadas =  
+	- Esse contrato terá validade de 12 meses; 
+	- O contrato poderá ser renovado mediante acordo mútuo;
+	- A comissão da imobiliária será de 10% sobre o valor mensal do aluguel;
+	- Qualquer alteração no imóvel deve ser comunicada com 30 dias de antecedência
+	- O descumprimento de regras pode levar a multa e cancelamento do contrato
+
+	Valor de pagamento do imóvel = R$2550.0
+
+
+
+ASSINANDO CONTRATO ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+	🔷 Contrato assinado pelo locatário: Pets Ltda
+	🔷 Contrato assinado pelo gerente: Mariana
+	🔷 Contrato assinado pelo corretor: Gustavo
+
+INFORMAÇÕES ATUALIZADAS DO IMÓVEL ⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+	🔷 Contrato do Locatário Cadastrado!
+
+	🔷 Status do Contrato do Locatário: Vigente
+	🔷 Status do Imóvel: Alugando
+
+	🔷 Imóveis alugados do Locatário: [Endereço do imóvel: Rua 27 Casa 20 / Código: 10240001/ Status: Alugando]
+
+
+
+
+
+MOSTRANDO TRATAMENTO DE ERROS ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+ERROS 1: Dois tratamentos de exceção em métodos
+
+	🔷 Escrevendo contrato do locador utilizando um caminho inexistente: 
+
+	Não foi possível encontrar o caminho!
+java.io.FileNotFoundException: Documentos\caminho_inexistente\contrato_locador.txt (O sistema não pode encontrar o caminho especificado)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:289)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:230)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:118)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:67)
+	at br.edu.iesb.poo2024.trabalho.ContratoLocador.escreverArquivoTratado(ContratoLocador.java:109)
+	at br.edu.iesb.poo2024.trabalho.Main.main(Main.java:217)
+
+	🔷 Lendo arquivo de contrato com o locador no locatario que nunca foi salvo: 
+
+	Não foi possível encontrar o caminho!
+java.io.FileNotFoundException: \caminho_sem_arquivo (O sistema não pode encontrar o arquivo especificado)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at br.edu.iesb.poo2024.trabalho.ContratoLocatario.lerArquivoTratado(ContratoLocatario.java:102)
+	at br.edu.iesb.poo2024.trabalho.Main.main(Main.java:220)
+
+
+⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+ERROS 2: Um tratamento de exceção no construtor da sua classe negocial de mais importância do seu estudo de caso.
+
+	🔷 Escrevendo contrato do locador utilizando um caminho inexistente - Tratando na main: 
+
+	Não foi possível encontrar o caminho!
+java.io.FileNotFoundException: Documentos\caminho_inexistente\contrato_locador.txt (O sistema não pode encontrar o caminho especificado)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:289)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:230)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:118)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:67)
+	at br.edu.iesb.poo2024.trabalho.ContratoLocador.escreverArquivoNaoTratado(ContratoLocador.java:101)
+	at br.edu.iesb.poo2024.trabalho.Main.main(Main.java:228)
+
+	🔷 Lendo arquivo de contrato com o locador no locatario que nunca foi salvo - Tratando na main: 
+
+	Não foi possível encontrar o caminho!
+java.io.FileNotFoundException: \caminho_sem_arquivo (O sistema não pode encontrar o arquivo especificado)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.util.Scanner.<init>(Scanner.java:645)
+	at br.edu.iesb.poo2024.trabalho.ContratoLocatario.lerArquivoNaoTratado(ContratoLocatario.java:91)
+	at br.edu.iesb.poo2024.trabalho.Main.main(Main.java:236)
+
+
+⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+ERROS 3: Um exemplo de exceção não tratada em Java
+
+	🔷 Acessando array de imóveis do locador e ultrapassando indices: 
+
+	Imóveis = 
+	- Endereço do imóvel: Rua 27 Casa 20 / Código: 10240001/ Status: Alugando
+
+	Erro de acesso no index do Array List:
+java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at br.edu.iesb.poo2024.trabalho.Locador.getImoveisLocadorErro(Locador.java:119)
+	at br.edu.iesb.poo2024.trabalho.Main.main(Main.java:246)
+
+
+⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝⬝
+
+ERROS 4: Um tratamento de exceção no construtor da sua classe negocial de mais importância do seu estudo de caso.
+
+	🔷 Criando locatário (pessoa jurídica) incorretamente:
+
+br.edu.iesb.poo2024.trabalho.exceptions.CadastroInvalidoPessoaJuridicaException: [Erro]: É necessário um CNPJ e nome válidos!
+	at br.edu.iesb.poo2024.trabalho.PessoaJuridica.<init>(PessoaJuridica.java:19)
+	at br.edu.iesb.poo2024.trabalho.Main.main(Main.java:252)
+
+

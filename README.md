@@ -1,18 +1,16 @@
-## Getting Started
+<html>
+<header>
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczPhOWi4Lxfkq-QnrV8tCO-LMfKENFA1X1_ljd6KNufUvexjI8spZ6bd24MsDjGX8twwCYoXnEgfDsVKleDCqlH7m7pqeluqaBXTWNVVnEUeXt2n0WK0vp0N5Z7ki7fr2WBLhUM6aiS1jqtuUpqI4sfD=w1360-h227-s-no-gm?authuser=0" alt="Cenário Java" border="0" width="850"/>
+  <h1>Projetos em Java <img src="https://lh3.googleusercontent.com/pw/AP1GczNIBGjFoOKyYIIf9m6erObTHO7eYLkSCGl8pUAX8uOUiXT3c1-ilCUHGCMBWabu7seBwMg4X3x8Jq6olr5w6DD3JwCpGolPDsWx4w4YVKv0RTpOhrtQQUCFERQmNuY1SrgFn1avnSOBPbZVE79sE4hU=w769-h645-s-no-gm?authuser=0" alt="Ícone de Computador" border="0" width="30" /></h1>
+  <h4><u><i>✿ Engenharia de Computação, IESB</i></u></h4>
+</header>
+</html>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Objetivos
+- Desenvolvimento de códigos com finalidade acadêmica, voltados para a aprendizagem e aprimoramento durante a graduação em Engenharia de Computação.
+- Foco: Explorar ferramentas da linguagem Java e aplicar conceitos de programação orientada a objetos, enfatizando a organização de classes, métodos e objetos.
+- Disciplina: Programação Orientada a Objetos.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Sobre os códigos
+- Criados durante aulas, exercícios práticos e trabalhos.
+- Autora: Elisa Nunes

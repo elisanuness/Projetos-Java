@@ -1,0 +1,285 @@
+Equipe de corretores do(a) gerente Mariana:[Corretor: Gustavo / Código:35020002, Corretor: Pedro / Código:35020003, Corretor: Diogo / Código:35020002]
+Contrato do Locador registrado!
+Contrato assinado pelo locador: Mayron
+Contrato assinado pelo gerente: Mariana
+Contrato assinado pelo corretor: Gustavo
+
+Elisa Nunes
+2312082040
+
+                                     CONTRATO COM LOCADOR                                     
+
+
+Informações completas de contratação da imobiliária por Mayron
+
+Locador -------------------------------------------------------------
+
+Características Gerais: (Pessoa Física)
+Nome = Mayron
+CPF = 056.963.777-45
+Data de Nascimento = 09/05/1998
+Estado Civil = Solteiro
+Nacionalidade = Brasileiro
+Sexo = Masculino
+Telefone = mayronoliv@gmail.com
+Email = (61)98574-6351
+Endereço = null
+
+Funções no sistema: 
+
+Locador: Sim
+Locatário: Não
+
+Características do locador Físico:
+Código = 35050004
+Data de cadastro = Mon Feb 24 12:30:52 BRT 2025
+Possui imóveis alugados? Não
+Imóveis = [Endereço do imóvel: Rua 27 Casa 20 / Código:10240001/ Status:Disponível]
+Receita Mensal =2295.0
+
+
+Gerente -------------------------------------------------------------
+
+Características Gerais: (Pessoa Física)
+Nome = Mariana
+CPF = 052.698.155-17
+Data de Nascimento = 06/04/1972
+Estado Civil = Casada
+Nacionalidade = Brasileira
+Sexo = Feminino
+Telefone = marianaflor@gmail.com
+Email = (61) 98561-7730
+Endereço = null
+
+Funções no sistema: 
+- Gerente
+
+Características do Gerente:
+Código = 406100001
+Comissão = 5.0
+Meta de Locação = 18
+Corretores que gerencia = [Corretor: Gustavo / Código:35020002, Corretor: Pedro / Código:35020003, Corretor: Diogo / Código:35020002]
+
+
+Corretor -------------------------------------------------------------
+
+Características Gerais: (Pessoa Física)
+Nome = Pedro
+CPF = 621.525.457-25
+Data de Nascimento = 22/07/1994
+Estado Civil = Solteiro
+Nacionalidade = Brasileiro
+Sexo = Masculino
+Telefone = pedrinbrgs@hotmail.com
+Email = (61) 95458-8623
+Endereço = CEP: 567782-145
+	   Cidade: Taguatinga
+	   Estado: DF
+	   Logradouro: Quadra 12 Rua 4 Lote 23
+	   Número: 23
+	   Complemento: Lote 23
+	   Ponto de Referência: null
+
+Funções no sistema: 
+- Corretor
+
+Características do Corretor:
+Código = 35020003
+Comissão = 10.0
+Meta de Locação = 5
+Locadores que atende = [Locador: Mayron / Código:35050004]
+Locatários que atende = []
+
+
+Imóvel ---------------------------------------------------------------
+
+Características do Imóvel:
+Id do Imóvel = 10240001
+Data de Cadastro = Mon Feb 24 12:30:52 BRT 2025
+Status = Disponível
+Tipo do Imóvel = Casa
+Valor Aluguel = 2550.0
+Endereço = CEP: 456798-45
+	   Cidade: Casa 20
+	   Estado: DF
+	   Logradouro: Rua 27 Casa 20
+	   Número: 20
+	   Complemento: Núcleo Bandeirante
+	   Ponto de Referência: Padaria na Esquina
+Contratos:
+Contrato com Locador: Sim
+Contrato com Locatario: Não
+
+
+Contrato -------------------------------------------------------------
+
+Contrato do Locador: 
+
+Imóvel: Endereço do imóvel: Rua 27 Casa 20 / Código:10240001/ Status:Disponível
+
+Principais envolvidos = 
+    Gerente: Mariana / Código:406100001
+    Corretor: Pedro / Código:35020003
+    Locador: Mayron / Código:35050004
+
+Responsabilidades da Imobiliária = A imobiliária se compromete em: 
+	- Oferecer o imóvel do locador aos interesados; 
+	- Intermediar o aluguel e o contato entre locador e locatário;
+	- Assegurar a coleta do aluguel;
+	- Pagar valores relativos a transações de compras ao respectivo locador, descontada a comissão da empresa;
+	- Incluir relatórios periódicos;
+	- Realizar a manutenção necessária quando combinada com o locador;
+
+Responsabilidades da Imobiliária = A imobiliária se compromete em: 
+	- Oferecer o imóvel do locador aos interesados; 
+	- Intermediar o aluguel e o contato entre locador e locatário;
+	- Assegurar a coleta do aluguel;
+	- Pagar valores relativos a transações de compras ao respectivo locador, descontada a comissão da empresa;
+	- Incluir relatórios periódicos;
+	- Realizar a manutenção necessária quando combinada com o locador;
+
+Cláusulas Especificadas =  
+	- Esse contrato terá validade de 12 meses; 
+	- O contrato poderá ser renovado mediante acordo mútuo;
+	- A comissão da imobiliária será de 10% sobre o valor mensal do aluguel;
+	- Qualquer alteração no imóvel deve ser comunicada com 30 dias de antecedência
+	- O descumprimento de regras pode levar a multa e cancelamento do contrato
+
+Taxa de Contratação = 10.0
+Receita Imóvel = 2295.0
+
+
+                                     CONTRATO COM LOCATÁRIO                                       
+
+
+Informações completas de contratação da imobiliária por Pets Ltda
+
+Locatario-------------------------------------------------------------
+
+Características da Pessoa Jurídica:
+ Nome = Pets Ltda
+CNPJ = 38.899.984/0001-11
+Data de Registro = 08/10/1998
+Telefone = pestltd@gmail.com
+Email = (61)98574-6351
+Endereço = CEP: 545631-545
+	   Cidade: Riacho Fundo I
+	   Estado: DF
+	   Logradouro: Quadra 15 Rua 10 Lote 20
+	   Número: 20
+	   Complemento: Lote 20
+	   Ponto de Referência: null
+
+Características do locador Jurídico:
+ Código = 35040001
+Data de cadastro = Mon Feb 24 12:30:52 BRT 2025
+Está alugando imóveis? Não
+Imóveis = [Endereço do imóvel: Rua 27 Casa 20 / Código:10240001/ Status:Disponível]
+
+
+Gerente -------------------------------------------------------------
+
+Características Gerais: (Pessoa Física)
+Nome = Mariana
+CPF = 052.698.155-17
+Data de Nascimento = 06/04/1972
+Estado Civil = Casada
+Nacionalidade = Brasileira
+Sexo = Feminino
+Telefone = marianaflor@gmail.com
+Email = (61) 98561-7730
+Endereço = null
+
+Funções no sistema: 
+- Gerente
+
+Características do Gerente:
+Código = 406100001
+Comissão = 5.0
+Meta de Locação = 18
+Corretores que gerencia = [Corretor: Gustavo / Código:35020002, Corretor: Pedro / Código:35020003, Corretor: Diogo / Código:35020002]
+
+
+Corretor -------------------------------------------------------------
+
+Características Gerais: (Pessoa Física)
+Nome = Pedro
+CPF = 621.525.457-25
+Data de Nascimento = 22/07/1994
+Estado Civil = Solteiro
+Nacionalidade = Brasileiro
+Sexo = Masculino
+Telefone = pedrinbrgs@hotmail.com
+Email = (61) 95458-8623
+Endereço = CEP: 567782-145
+	   Cidade: Taguatinga
+	   Estado: DF
+	   Logradouro: Quadra 12 Rua 4 Lote 23
+	   Número: 23
+	   Complemento: Lote 23
+	   Ponto de Referência: null
+
+Funções no sistema: 
+- Corretor
+
+Características do Corretor:
+Código = 35020003
+Comissão = 10.0
+Meta de Locação = 5
+Locadores que atende = [Locador: Mayron / Código:35050004]
+Locatários que atende = [Locatario: Pets Ltda / Código:35040001]
+
+
+Imóvel ---------------------------------------------------------------
+
+Características do Imóvel:
+Id do Imóvel = 10240001
+Data de Cadastro = Mon Feb 24 12:30:52 BRT 2025
+Status = Disponível
+Tipo do Imóvel = Casa
+Valor Aluguel = 2550.0
+Endereço = CEP: 456798-45
+	   Cidade: Casa 20
+	   Estado: DF
+	   Logradouro: Rua 27 Casa 20
+	   Número: 20
+	   Complemento: Núcleo Bandeirante
+	   Ponto de Referência: Padaria na Esquina
+Contratos:
+Contrato com Locador: Sim
+Contrato com Locatario: Sim
+
+
+Contrato -------------------------------------------------------------
+
+Contrato do Locatário: 
+
+Imóvel: Endereço do imóvel: Rua 27 Casa 20 / Código:10240001/ Status:Disponível
+
+Principais envolvidos = 
+    Gerente: Gerente: Mariana / Código:406100001
+    Corretor: Corretor: Pedro / Código:35020003
+    Locador: Locatario: Pets Ltda / Código:35040001
+
+Responsabilidades da Imobiliária = A imobiliária se compromete em: 
+	- Intermediar o contrato de locação; 
+	- Realizaar a cobrança do aluguel mensalmente;
+	- Assegurar a coleta do aluguel;
+	- Fornecer suporte ao locatário;
+
+Responsabilidades da Imobiliária = A imobiliária se compromete em: 
+	- Intermediar o contrato de locação; 
+	- Realizaar a cobrança do aluguel mensalmente;
+	- Assegurar a coleta do aluguel;
+	- Fornecer suporte ao locatário;
+
+Cláusulas Especificadas =  
+	- Esse contrato terá validade de 12 meses; 
+	- O contrato poderá ser renovado mediante acordo mútuo;
+	- A comissão da imobiliária será de 10% sobre o valor mensal do aluguel;
+	- Qualquer alteração no imóvel deve ser comunicada com 30 dias de antecedência
+	- O descumprimento de regras pode levar a multa e cancelamento do contrato
+
+Pagamento Imóvel = 2550.0
+
+
